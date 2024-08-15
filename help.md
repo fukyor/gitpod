@@ -16,6 +16,7 @@ join用于连接两个表，通常用于先根据主外键关系连接表然后�
     "create": "CREATE TABLE table_name();",
     "drop": "DROP TABLE table_name;",
     "rename": "ALTER TABLE table_name RENAME TO new_name;"
+    "删除表中数据": "TRUNCATE TABLE <TableName>"
   },
 # insert主要是对行的增减操作
 # update主要是对行中的某个值进行操作
